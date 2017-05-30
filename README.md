@@ -1,5 +1,9 @@
 # Diapositivas
 
-> Angular 2
+Mis Diapositivas :)
 
-> Fundamentos de GIT
++ Angular 2
+
++ Fundamentos de GIT
+
++ Curso de Javascript - Clase 01
