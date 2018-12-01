@@ -11,3 +11,5 @@ Mis Diapositivas :)
 + Curso de Javascript - Clase 02
 
 * Codelab NodeJs (devfest)
+
+* Charla Nodejs (devfest)
