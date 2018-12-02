@@ -10,6 +10,8 @@ Mis Diapositivas :)
 
 + Curso de Javascript - Clase 02
 
+* Dotnet C# Sucre
+
 * Codelab NodeJs (devfest)
 
 * Charla Nodejs (devfest)
